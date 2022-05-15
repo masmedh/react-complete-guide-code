@@ -25,7 +25,7 @@ const App = () => {
     },
     {
       id: 'e5',
-      title: 'Masood iphone',
+      title: ' My New Iphone ',
       amount: 1000,
       date: new Date(2019, 3, 14),
     },
